@@ -40,7 +40,7 @@ print('Number of words: ',num_words)
 
 
 ### OUTPUT:
-![](4a.png)
+![](copy.png)
 
 
 
